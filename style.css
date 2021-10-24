@@ -1,0 +1,13 @@
+body
+{
+    background: linear-gradient(lightyellow,yellow,gold,orange,red);
+}
+
+canvas
+{
+    background-color: white;
+    border: 5px solid snow ;
+    animation: white,gray,darkgray,;
+    border-radius: 20px ;
+    margin-top: 50px ;
+}
